@@ -404,5 +404,4 @@ Training
 Blog
 About
 
-.gitignore
-.vscode
+.vscode/*
