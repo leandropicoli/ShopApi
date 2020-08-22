@@ -403,3 +403,6 @@ API
 Training
 Blog
 About
+
+.gitignore
+.vscode
